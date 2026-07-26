@@ -69,10 +69,8 @@ $0.3 M_0 (1 + sin(2\Phi)),$
 essendo M0 il momento statico in G). Si determini l’angolo di sbandamento dinamico,
 partendo da un angolo iniziale di 0° e di -10°.
 
-I) Si consideri ora che la nave, al dislocamento considerato, abbia un raggio di inerzia
-pari a rxx=0.3 Bmax. Si determini il periodo naturale di rollio assumendo un contributo del
-momento di inerzia aggiunto pari al 20% del contributo di inerzia ordinario della nave.
-L) Si verifichi infine la stabilità intatta di nave integra secondo il criterio generale di
-stabilità (ex-IMO Res.A.167) ed il criterio meteorologico. Si assuma un angolo di
-allagamento progressivo pari a 45° . Per il criterio generale di stabilità si soddisfino i soli
-criteri a)-b)-c)-d)-e)- f)
+**I)** Si consideri ora che la nave, al dislocamento considerato, abbia un raggio di inerzia
+pari a $\text{r}_{xx} = 0.3 \cdot B_{max}$. Si determini il periodo naturale di rollio assumendo un contributo del momento di inerzia aggiunto pari al 20% del contributo di inerzia ordinario della nave.
+
+**L)** Si verifichi infine la stabilità intatta di nave integra secondo il criterio generale di
+stabilità (`ex-IMO Res.A.167`) ed il criterio meteorologico. Si assuma un angolo di allagamento progressivo pari a 45° . Per il criterio generale di stabilità si soddisfino i soli criteri a)-b)-c)-d)-e)- f)
